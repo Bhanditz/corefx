@@ -1,1 +1,1 @@
-./build.sh -debug -os=OSX -buildArch=x64 -SkipTests -BuildTests=False
+./build.sh  debug OSX x64 skiptests
